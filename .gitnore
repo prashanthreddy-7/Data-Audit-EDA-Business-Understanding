@@ -1,0 +1,40 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# Mac/Windows system files
+
+.DS_Store
+Thumbs.db
+
+# Python environment files
+
+.env
+
+# Notebook outputs
+
+*.log
+
+# Temporary files
+
+temp/
+tmp/
+
+# Large generated outputs
+
+outputs/charts/*.png
