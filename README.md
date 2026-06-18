@@ -22,9 +22,7 @@ part1-d2c-data-audit-eda/
 │
 │── eda_audit.ipynb
 │
-│── outputs/
-│   ├── charts/
-│   └── joined_dataset_sample.csv
+└── joined_dataset_sample.csv
 │
 │── reports/
 │   ├── data_quality_report.md
